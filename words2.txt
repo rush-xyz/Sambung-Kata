@@ -122,6 +122,7 @@ abdominoplasti
 abdu
 abduh
 abduksi
+abduktif
 abduktor
 abdul
 abdullah
@@ -156,6 +157,7 @@ aberystwyth
 abes
 abesif
 abet
+abetalipoproteineima
 abetalipoproteinemia
 abeuk
 abg
@@ -198,6 +200,7 @@ abiogenik
 abiologi
 abiosen
 abioseston
+abiosf
 abiosfer
 abiotik
 abiotrofi
@@ -236,6 +239,7 @@ ablatif
 ablaut
 ableisme
 ablepsia
+ablibliofobia
 ablur
 ablutofilia
 ablutofobia
@@ -421,6 +425,7 @@ abun
 abundu
 abung
 abungbung
+abungkul
 abur
 aburage
 aburan
@@ -679,10 +684,12 @@ adayu
 adb
 adbukin
 add
+addaks
 addax
 addie
 addison
 addui
+adduktif
 ade
 adeabiasang
 adean
@@ -706,6 +713,7 @@ ademaraja
 ademkan
 adempauze
 ademsi
+ademtif
 aden
 adena
 adenanthera
@@ -1418,6 +1426,8 @@ agapu
 agar
 agaragar
 agari
+agaricaceae
+agaricomycetidae
 agarikola
 agarofit
 agaropektin
@@ -1454,6 +1464,7 @@ agendi
 agenesis
 ageng
 agenggen
+agenitif
 agennya
 agens
 agensi
@@ -1756,8 +1767,11 @@ ahing
 ahinulin
 ahiolo
 ahir
+ahirani
 ahirat
+ahirbudhnya
 ahire
+ahirwati
 ahis
 ahistoris
 ahistorisme
@@ -1770,6 +1784,7 @@ ahlak
 ahlan
 ahlanwasahlan
 ahli
+ahlia
 ahliah
 ahlian
 ahlilkitab
@@ -2183,8 +2198,12 @@ akadkan
 akaga
 akah
 akai
+akaiami
 akaid
 akaik
+akaina
+akaishi
+akaiwa
 akajeng
 akak
 akal
@@ -2439,6 +2458,7 @@ akondrit
 akondritik
 akondrogenesis
 akondroplasia
+akondroplasti
 akong
 akonipuk
 akonitase
@@ -2606,6 +2626,8 @@ aksiomatisasi
 aksion
 aksionalitas
 aksis
+aksisimetri
+aksisimetrisasi
 aksismetris
 aksismus
 aksolema
@@ -3082,6 +3104,7 @@ alergenik
 alergenisitas
 alergenitas
 alergi
+alergia
 alergika
 alergis
 alerta
@@ -3280,6 +3303,7 @@ alisin
 alisme
 alisnya
 aliso
+alisonae
 alistis
 alisyahbana
 alit
@@ -3287,6 +3311,7 @@ alitam
 alitan
 alitas
 aliterasi
+aliteratif
 alitik
 alitta
 alitupu
@@ -3484,6 +3509,8 @@ alogen
 alogenik
 alogi
 alogia
+alogian
+alogical
 alogis
 alogo
 alogotrofia
@@ -3536,6 +3563,9 @@ alon
 alona
 along
 alongins
+alongshore
+alongslope
+alongstrike
 alonim
 aloo
 alooa
@@ -3743,6 +3773,9 @@ aluvium
 aluwana
 aluwang
 alv
+alvameline
+alvanite
+alvar
 alvarezsaurus
 alveola
 alveolar
@@ -3903,6 +3936,7 @@ amau
 amaurofilia
 amauroptera
 amaurornis
+amaurosis
 amautek
 amawakng
 amawang
@@ -4364,7 +4398,9 @@ aminase
 aminasi
 aminggaru
 amini
+aminic
 aminisasi
+aminium
 amino
 aminoasiduria
 aminoasil
@@ -4423,6 +4459,7 @@ amnan
 amnasit
 amnesia
 amnesti
+amnestia
 amnestik
 amniografi
 amnion
@@ -4491,6 +4528,7 @@ amorome
 amorosa
 amorph
 amorphophallus
+amortal
 amortir
 amortisasi
 amos
@@ -4788,7 +4826,9 @@ anahuacalli
 anai
 anaido
 anaip
+anairetes
 anaiwoi
+anaiyur
 anajero
 anajiaka
 anak
@@ -4865,6 +4905,7 @@ anami
 anamina
 anamn
 anamnesa
+anamnesia
 anamnesis
 anamohane
 anamoks
@@ -5111,7 +5152,10 @@ andikara
 andiko
 andikpas
 andil
+andilamena
 andilau
+andilla
+andilly
 andin
 andina
 andinete
@@ -5210,9 +5254,11 @@ andungan
 andungbiru
 andungsari
 andur
+andura
 andurabian
 anduriang
 anduring
+anduriya
 andusan
 ane
 anean
@@ -5316,6 +5362,16 @@ anganku
 angannya
 angantaka
 angar
+angara
+angaraland
+angarei
+angaria
+angaricin
+angarnsjoangen
+angaropeltis
+angarotipula
+angarrack
+angarsk
 angaru
 angas
 angat
@@ -5496,6 +5552,7 @@ angioplasti
 angiosarkoma
 angiosp
 angiosperma
+angiospermia
 angiotensin
 angiotensinogen
 angirang
@@ -5668,6 +5725,8 @@ angulomastacator
 angulus
 angur
 angus
+angustia
+angusticlavia
 angustifolia
 angustopila
 angut
@@ -5686,6 +5745,7 @@ anhuma
 ani
 ania
 anian
+anianus
 aniaya
 anibenu
 aniboi
@@ -5846,6 +5906,7 @@ anmitsu
 anmur
 anna
 annapurna
+anneks
 annelida
 annex
 annexis
@@ -6746,6 +6807,8 @@ antrean
 antrede
 antri
 antrian
+antribacter
+antrim
 antrocarpus
 antrodemus
 antrofobia
@@ -6803,7 +6866,10 @@ antuk
 antukan
 antukkan
 antul
+antulang
 antulawo
+antulia
+antully
 antum
 antumbra
 antun
@@ -6951,6 +7017,7 @@ apanders
 apang
 apangadeg
 apangapang
+apangi
 apanono
 apanya
 apapua
@@ -7411,9 +7478,13 @@ arahku
 arahnya
 arai
 araih
+araii
+araiiya
+araiophos
 araisum
 arajang
 arak
+arakaka
 arakam
 arakan
 arakian
@@ -7482,6 +7553,8 @@ arareni
 araro
 ararut
 aras
+arasapura
+arashiyama
 arasoe
 arasy
 arat
@@ -7621,8 +7694,12 @@ arerut
 ares
 arestasi
 areta
+aretalogi
+aretalogy
 arete
+arethousa
 aretifisme
+aretxabaleta
 areui
 arewang
 arfak
@@ -7746,6 +7823,8 @@ arinkop
 arintap
 arinya
 ario
+arionus
+ariotus
 arip
 aripan
 aripiprazole
@@ -7772,6 +7851,7 @@ aritmetis
 aritmia
 aritmik
 aritmofobia
+aritmomania
 aritnya
 aritonang
 aritowi
@@ -8126,7 +8206,9 @@ arundinaceus
 arundisiaceus
 arung
 arungan
+arungbone
 arungkeke
+arungmaiwa
 arungmatoa
 arungwi
 arunika
@@ -8278,6 +8360,8 @@ aseksal
 aseksual
 aseksualitas
 asel
+aselizumab
+aselliscus
 aselomata
 aselular
 asem
@@ -8594,6 +8678,7 @@ asolokobal
 asolole
 asolu
 asombue
+asomnia
 asonansi
 asong
 asongan
@@ -8738,6 +8823,7 @@ astenosfer
 asteositoma
 aster
 asteraseae
+astereognosia
 astereognosis
 asterik
 asteriksis
@@ -8803,6 +8889,7 @@ astronautika
 astronavigasi
 astronom
 astronomi
+astronomia
 astronomik
 astronomis
 astronot
@@ -8972,6 +9059,8 @@ atelis
 atelofobia
 atelokolagen
 atembabol
+atemoya
+atemporal
 aten
 atena
 ateng
@@ -9069,6 +9158,7 @@ atmos
 atmosf
 atmosfer
 atmosfera
+atmosferia
 atmosferik
 atmosferis
 atmosferisotermal
@@ -9109,9 +9199,12 @@ atonik
 atopi
 atopik
 ator
+atorai
 atori
 atoriolog
 atoriolong
+atoroidal
+atorolimumab
 atorvastatin
 atos
 atosis
@@ -9136,6 +9229,7 @@ atralgia
 atras
 atraumatis
 atrazin
+atrepsia
 atresia
 atret
 atri
@@ -9414,6 +9508,7 @@ autigenik
 autis
 autism
 autisme
+autismia
 autistik
 autistis
 auto
@@ -9535,6 +9630,7 @@ autoploid
 autopoiesis
 autopoliploid
 autopsi
+autopsia
 autoradiograf
 autoredoks
 autoregresi
@@ -9719,9 +9815,13 @@ awannya
 awapasang
 awapeka
 awar
+awara
 awaracun
+awaran
 awarawar
 awarima
+awarra
+awaruite
 awas
 awasan
 awasandi
@@ -9888,7 +9988,9 @@ ayanamsa
 ayanda
 ayane
 ayang
+ayanganna
 ayanginahe
+ayangudi
 ayap
 ayapan
 ayapo
@@ -9955,6 +10057,7 @@ ayunan
 ayunda
 ayung
 ayungan
+ayungon
 ayuning
 ayunkan
 ayunkanlah
@@ -10924,6 +11027,8 @@ bakambat
 bakamla
 bakan
 bakana
+bakanas
+bakani
 bakanon
 bakanuti
 bakaoda
@@ -11069,6 +11174,7 @@ bakteri
 bakteria
 bakterial
 bakterialis
+bakteriemia
 bakterin
 bakteriofag
 bakteriofobia
@@ -11653,6 +11759,7 @@ balsom
 balt
 balti
 baltik
+baltray
 balu
 balua
 baluakan
@@ -15670,6 +15777,7 @@ benzin
 benzine
 benzoal
 benzoat
+benzodiazepin
 benzodiazepina
 benzofenon
 benzofuran
@@ -19534,6 +19642,7 @@ bermunajat
 bermunas
 bermunculan
 bermuradif
+bermurafif
 bermurah
 bermuram
 bermursyid
@@ -22418,6 +22527,7 @@ bibliofobia
 bibliografi
 bibliografis
 biblioklasme
+bibliokleptomania
 bibliologi
 bibliomania
 bibliometrik
@@ -23453,6 +23563,7 @@ bioseri
 bioseston
 biosf
 biosfer
+biosferia
 biosida
 biosignal
 biosiklus
@@ -25559,6 +25670,7 @@ brachyura
 bradag
 bradiaritmia
 bradiartria
+bradifrenia
 bradikardi
 bradikardia
 bradikinesia
@@ -28418,8 +28530,11 @@ carica
 caridina
 caries
 carigading
+cariin
+cariinlah
 carik
 carikan
+carikanlah
 carikkan
 cariknya
 carilah
@@ -28446,6 +28561,7 @@ caropong
 carota
 carpe
 carpentin
+carpinus
 carpio
 carpon
 carrallia
@@ -28504,7 +28620,10 @@ catam
 catamite
 catamko
 catan
+catanadromous
+catananche
 catang
+catantopinae
 catapa
 catappa
 catar
@@ -29734,6 +29853,7 @@ chinensis
 ching
 chingkankousaurus
 chinshakiangosaurus
+chintz
 chiorso
 chip
 chiragra
@@ -29752,6 +29872,7 @@ chlorophyll
 chlorophyta
 chlorophytum
 chloropsis
+chlorosis
 cho
 chocolatier
 choconsaurus
@@ -32154,6 +32275,7 @@ cyanophyta
 cyanus
 cyars
 cyathea
+cyathes
 cyathocalyx
 cyathula
 cycad
@@ -34528,6 +34650,7 @@ deoksiribonuklease
 deoksiribonukleat
 deoksiribonukleotida
 deoksiribosa
+deon
 deontologi
 deoxyribonucleic
 deoxyribonucleotide
@@ -37751,6 +37874,7 @@ diktatorial
 diktatoris
 dikte
 diktean
+diktekan
 dikti
 diktiosom
 diktis
@@ -41602,6 +41726,7 @@ dominansi
 dominasi
 dominator
 dominatriks
+dominatrkes
 domine
 dominggo
 domini
@@ -42311,6 +42436,7 @@ dukaku
 dukal
 dukan
 dukana
+dukandar
 dukaria
 dukasi
 dukat
@@ -43109,6 +43235,7 @@ eho
 ehomo
 ehomofobia
 ehosakhozi
+ehvayxpage
 eiada
 eichornia
 eidetik
@@ -43433,6 +43560,7 @@ eksil
 eksim
 eksimer
 eksin
+eksina
 eksinnya
 eksipien
 eksis
@@ -43841,8 +43969,10 @@ elaeorpus
 elah
 elahe
 elai
+elaidin
 elaioplankton
 elaioplas
+elaisome
 elak
 elakan
 elake
@@ -43922,6 +44052,7 @@ elektrodiagnostik
 elektrodialisis
 elektrodinamika
 elektroendosmosis
+elektroensefalograf
 elektroensefalografi
 elektroensefalografis
 elektroensefalogram
@@ -44158,6 +44289,8 @@ emali
 eman
 emanasi
 emang
+emangbo
+emangidini
 emangin
 emanometer
 emansipasi
@@ -44572,6 +44705,7 @@ encore
 encot
 encrak
 encu
+end
 enda
 endaboi
 endah
@@ -44591,6 +44725,7 @@ endasan
 endatdat
 ende
 endek
+endekaginus
 endeksin
 endel
 endemi
@@ -44742,6 +44877,7 @@ endul
 endula
 endumu
 endun
+endurantism
 enduro
 endus
 endusan
@@ -45069,7 +45205,10 @@ entesopati
 enti
 entibab
 entik
+entika
+entiklar
 entikong
+entikung
 entil
 entileng
 entimem
@@ -45455,7 +45594,10 @@ eraman
 erambu
 eran
 erang
+erangadu
 erangan
+erangaon
+erangudi
 erat
 erata
 eratik
@@ -45495,7 +45637,11 @@ ereri
 erersin
 eret
 eretan
+erethistes
+erethistoides
+erethizontidae
 eretisme
+eretmochelys
 ereutrofobia
 erfpacht
 erg
@@ -45736,6 +45882,7 @@ esmambo
 esmapan
 esmolol
 eso
+esof
 esofageal
 esofagitis
 esofagodermatodigiunoplastika
@@ -45822,6 +45969,7 @@ etam
 etambutol
 etana
 etanal
+etanautine
 etandau
 etanoat
 etanol
@@ -46059,6 +46207,7 @@ europasaurus
 europatitan
 europelta
 europium
+europol
 eurosentris
 eurostopodus
 eurotofobia
@@ -46212,6 +46361,7 @@ exordim
 exosfer
 exostosis
 exotisme
+expand
 expansa
 expansi
 expansive
@@ -46772,6 +46922,7 @@ fatihah
 fatik
 fatima
 fatimah
+fatina
 fatinah
 fatir
 fatis
@@ -47271,8 +47422,11 @@ filgrastim
 filharmoni
 filharmonis
 filia
+filiafamilias
 filiahik
 filial
+filiano
+filiatra
 filibuster
 filiformis
 filigran
@@ -48013,6 +48167,7 @@ fosfatidiletanolamin
 fosfatidilinositol
 fosfatidilkolin
 fosfatidilserin
+fosfatieiletanolamin
 fosfen
 fosfida
 fosfina
@@ -48883,6 +49038,8 @@ galagamba
 galaganjur
 galagasi
 galah
+galaha
+galahad
 galaherang
 galai
 galak
@@ -49112,6 +49269,8 @@ gamalisasi
 gamam
 gaman
 gamang
+gamanraige
+gamanthus
 gamat
 gamba
 gambah
@@ -49245,6 +49404,7 @@ ganalan
 ganalo
 ganan
 ganang
+gananoque
 ganar
 ganarak
 ganas
@@ -49765,6 +49925,7 @@ gastro
 gastrochilus
 gastrodermis
 gastrodiplomasi
+gastrodiskoidiasis
 gastroduodenal
 gastroduodenitis
 gastroduodenoskopi
@@ -51174,6 +51335,7 @@ geologi
 geologis
 geologiwan
 geolograf
+geology
 geolokasi
 geomagnet
 geomagnetik
@@ -51853,7 +52015,10 @@ gial
 gialitas
 giam
 gian
+gianduiotto
 gianduja
+gianicolo
+giansenismo
 giant
 gianyar
 giardia
@@ -51966,6 +52131,7 @@ gik
 gika
 gikang
 giko
+gikongoro
 gikur
 gil
 gila
@@ -52650,6 +52816,7 @@ glukorafanin
 glukoreseptor
 glukoronat
 glukoronida
+glukoronosiltransferase
 glukosa
 glukosamin
 glukosamina
@@ -52657,6 +52824,7 @@ glukosaminoglikan
 glukosan
 glukosida
 glukosidase
+glukosilfosfatidilinositol
 glukosiltransferase
 glukosinolat
 glukosuria
@@ -53117,6 +53285,7 @@ goo
 good
 goodby
 goods
+googol
 goong
 gop
 gopa
@@ -54030,6 +54199,7 @@ gungging
 gunggun
 gunggung
 gunggungan
+gungkan
 gungseng
 gungun
 guni
@@ -54519,6 +54689,7 @@ haemacephala
 haemadipsa
 haemaran
 haemaria
+haematopinus
 haematuria
 haemofilus
 haemorroid
@@ -54682,6 +54853,7 @@ halado
 halaholo
 halai
 halaik
+halaika
 halak
 halakah
 halakai
@@ -56028,6 +56200,7 @@ hemiptera
 hemiramphus
 hemiselulase
 hemiselulosa
+hemisf
 hemisfer
 hemisfera
 hemisferektomi
@@ -56280,6 +56453,7 @@ herping
 herrerasaurus
 hertuti
 hertz
+hertzogi
 herua
 herurok
 herveyana
@@ -56540,6 +56714,7 @@ hidrazon
 hidrida
 hidrik
 hidrila
+hidrkarbon
 hidro
 hidroakustik
 hidroalkohol
@@ -56622,6 +56797,7 @@ hidroksilamina
 hidroksilase
 hidroksilasi
 hidroksilisin
+hidroksilprogesteron
 hidroksimetil
 hidroksimetilfurfural
 hidroksiprogesteron
@@ -57032,6 +57208,7 @@ hinas
 hinat
 hinayana
 hinayi
+hind
 hindalimuhuk
 hindar
 hindari
@@ -57384,6 +57561,7 @@ hipoglosus
 hipognatus
 hipogonadisme
 hipogram
+hipohipotermia
 hipokalemia
 hipokalsemia
 hipokampal
@@ -57474,6 +57652,7 @@ hipotermia
 hipotesa
 hipotesis
 hipotesium
+hipotetik
 hipotetis
 hipotik
 hipotiroid
@@ -57737,6 +57916,7 @@ hohoyor
 hohudongan
 hoi
 hoibeti
+hoilto
 hoiltom
 hoim
 hoin
@@ -58822,7 +59002,9 @@ ibra
 ibrah
 ibrahim
 ibrani
+ibrekaris
 ibreksafungerp
+ibreng
 ibrik
 ibrit
 ibru
@@ -58871,6 +59053,7 @@ ida
 idadagi
 idaeus
 idah
+idaho
 idai
 idain
 idaiyo
@@ -59067,6 +59250,7 @@ iguh
 iguriji
 iha
 ihaheta
+ihal
 ihalik
 ihamahu
 ihanah
@@ -59101,9 +59285,11 @@ ihwal
 ihwalnya
 ihya
 iii
+iiib
 iiiiv
 iiiix
 iito
+iiwi
 ija
 ijab
 ijabah
@@ -59153,6 +59339,8 @@ ika
 ikab
 ikada
 ikadabuki
+ikadanagashi
+ikadashi
 ikadi
 ikadin
 ikaheka
@@ -59163,7 +59351,10 @@ ikama
 ikamah
 ikan
 ikana
+ikanahalli
 ikanan
+ikando
+ikangba
 ikanisasi
 ikanlah
 ikannya
@@ -59374,8 +59565,11 @@ ilham
 ilhami
 ilhuwa
 ili
+iliac
+iliacus
 iliak
 iliala
+iliamna
 ilian
 iliapa
 iliapakapi
@@ -59403,6 +59597,7 @@ ilirek
 ilit
 ilium
 illa
+illacme
 illah
 illallah
 illinous
@@ -59817,6 +60012,7 @@ inaktivasi
 inaktivator
 inaktivitas
 inal
+inala
 inalahi
 inalatan
 inalipue
@@ -60039,6 +60235,7 @@ indriawi
 indro
 indrodelik
 indrosari
+indsutrial
 indu
 indudur
 indugu
@@ -60369,6 +60566,7 @@ inkai
 inkanan
 inkanas
 inkantasi
+inkanyamba
 inkar
 inkarnasi
 inkarnasinya
@@ -60653,7 +60851,9 @@ instrumentalistik
 instrumentalitas
 instrumentasi
 instrumentatif
+insttut
 instutionil
+instutusionalisme
 insubordinasi
 insubordinat
 insufisiensi
@@ -60996,6 +61196,7 @@ intid
 intifada
 intifadah
 intiha
+intika
 intikad
 intil
 intim
@@ -61195,7 +61396,12 @@ involunter
 involusi
 involusional
 inya
+inyan
+inyandezulu
+inyanga
+inyangani
 inyap
+inyathi
 inyau
 inyaub
 inyebuow
@@ -61352,9 +61558,18 @@ irampu
 iran
 irang
 iranga
+irangal
+irangate
 irani
+iranian
 iranika
+iranisasi
+iranist
 iranmeba
+iranofil
+iranofobik
+iranologi
+iranosentrisme
 iraono
 iraonogaila
 iraonogambo
@@ -61556,6 +61771,8 @@ isidium
 isik
 isikan
 isiklak
+isiklar
+isikli
 isila
 isilah
 isilop
@@ -61572,6 +61789,8 @@ isisaurus
 isit
 isk
 iskandar
+iskandariya
+iskanderkul
 iskani
 iskemia
 iskemik
@@ -61586,6 +61805,7 @@ islamiah
 islamicization
 islamicize
 islamicizing
+islamik
 islamis
 islamisasi
 islamisme
@@ -61973,6 +62193,7 @@ itu
 ituah
 itug
 itugitug
+itukan
 itulah
 itung
 itup
@@ -66222,6 +66443,7 @@ kakoe
 kakoetes
 kakofobia
 kakofoni
+kakofonia
 kakofonofili
 kakofonofilia
 kakografi
@@ -68697,6 +68919,7 @@ karboksil
 karboksilase
 karboksilasi
 karboksilat
+karboksilhemoglobin
 karboksimetilasi
 karboksimetilselulosa
 karboksipeptidase
@@ -69565,6 +69788,7 @@ katalan
 katalante
 katalase
 katalepsi
+katalepsia
 katalina
 katalis
 katalisa
@@ -69653,6 +69877,7 @@ katekismus
 kateklisme
 katekol
 katekolamin
+kateksia
 kateksis
 katekumen
 katel
@@ -70700,6 +70925,7 @@ kebertele
 kebertenggeran
 keberterimaan
 kebertidakpengalamanan
+kebertidakpengaoamanan
 kebertuhanan
 kebertujuan
 keberulangan
@@ -79766,8 +79992,10 @@ kolese
 kolesistektomi
 kolesistitis
 kolesistoduodenostomi
+kolesistojejunostomi
 kolesistokinin
 kolesistolitiasis
+kolesistostomi
 kolesistotomi
 kolesom
 kolestasis
@@ -80599,7 +80827,11 @@ koniogravimeter
 konir
 konis
 konisasi
+koniscope
 konisitas
+koniskus
+konispol
+konistres
 konium
 koniuti
 konja
@@ -81377,6 +81609,7 @@ korep
 korepresor
 koreri
 kores
+korespon
 korespond
 koresponden
 korespondensi
@@ -81614,6 +81847,7 @@ kosimeage
 kosinane
 kosinus
 kosio
+kosiska
 kosist
 kosistem
 kosit
@@ -84885,6 +85119,7 @@ laham
 lahan
 lahang
 lahano
+lahanofobia
 lahap
 lahapan
 lahapnya
@@ -86487,6 +86722,11 @@ lapulu
 lapun
 lapung
 lapur
+laquatus
+laqueata
+laqueatus
+laquifer
+laquinta
 laquintasaura
 lar
 lara
@@ -86547,6 +86787,10 @@ larinya
 laris
 larisa
 larisasi
+larissa
+larissia
+larissius
+laristan
 larkang
 larnaks
 larni
@@ -86802,6 +87046,7 @@ latuppa
 latur
 laturake
 latus
+latusinus
 latut
 latvia
 lau
@@ -88752,6 +88997,7 @@ liaoningosaurus
 liaoningvenator
 liar
 liaran
+liardetia
 liaro
 lias
 liat
@@ -88920,6 +89166,7 @@ ligiositas
 ligirofobia
 ligitasi
 ligius
+ligma
 lignan
 lignifikasi
 lignin
@@ -89180,6 +89427,7 @@ limfadenopati
 limfadenosis
 limfaderitis
 limfangiektasia
+limfangiektasis
 limfangiografi
 limfangioleiomiomatosis
 limfangioliomiomatosis
@@ -90089,6 +90337,7 @@ logisiti
 logisme
 logistik
 logistikal
+logistikos
 logo
 logofili
 logofilia
@@ -91605,6 +91854,7 @@ lupercalia
 lupet
 lupi
 lupia
+lupinus
 lupir
 lupis
 lupit
@@ -93003,6 +93253,7 @@ makrogeografi
 makroglia
 makroglosia
 makrohara
+makrohematokrit
 makrohistori
 makrokeadaan
 makrokimia
@@ -93798,6 +94049,7 @@ manager
 managua
 manah
 manahan
+manahawkin
 manahelo
 manai
 manaih
@@ -96142,7 +96394,9 @@ matlak
 matlow
 mato
 matoa
+matoaka
 matoanging
+matoatoa
 matobe
 matoda
 matofobia
@@ -96593,6 +96847,8 @@ mbomogo
 mbon
 mbong
 mbongawani
+mbongo
+mbongolwane
 mbono
 mbontu
 mbosur
@@ -97984,6 +98240,7 @@ melobi
 melobok
 melocok
 melocot
+melodeon
 melodi
 melodika
 melodinya
@@ -100096,12 +100353,15 @@ mempanjar
 mempantau
 mempaparkan
 memparafrasakan
+memparafrase
 memparafrasekan
 memparalelkan
 memparodikan
+mempasarah
 mempasrahkan
 mempasteurisasi
 mempastikan
+mempasturisasi
 mempasturisasikan
 mempasung
 mempatenkan
@@ -110903,6 +111163,7 @@ mesoproterozoikum
 mesor
 mesosefalik
 mesosenyawa
+mesosf
 mesosfer
 mesosiderit
 mesosiklon
@@ -111161,6 +111422,7 @@ metilasi
 metilbenzena
 metildopa
 metilena
+metilendioksifetamin
 metilendioksimetamfetamin
 metilendioksimetamfetamina
 metileugenol
@@ -111219,7 +111481,9 @@ metraya
 metre
 metri
 metriacanthosaurus
+metridiidae
 metrik
+metrioptera
 metris
 metritis
 metrix
@@ -111787,6 +112051,8 @@ mikrolet
 mikrolinguistik
 mikrolit
 mikroliter
+mikrolog
+mikrologi
 mikrom
 mikromanajemen
 mikromania
@@ -111862,6 +112128,7 @@ mikrosomia
 mikrososiolinguistik
 mikrospektrofotometer
 mikrospektrofotometri
+mikrospeotrofotometri
 mikrospesies
 mikrospora
 mikrosporangium
@@ -112535,6 +112802,8 @@ mitak
 mital
 mitam
 mitan
+mitane
+mitanni
 mitanol
 mitans
 mitar
@@ -114968,6 +115237,7 @@ multipengguna
 multiperangkat
 multipersepsi
 multiperspektif
+multipikatif
 multipl
 multiplanet
 multiplatform
@@ -115957,6 +116227,7 @@ myripristis
 myristica
 myrtaceae
 mystax
+mystis
 mystus
 mythologic
 mytilus
@@ -116669,9 +116940,11 @@ nangur
 nani
 nania
 naniang
+naniasso
 nanik
 nanil
 nanim
+nanima
 nanimori
 nanin
 naning
@@ -116775,6 +117048,7 @@ nanusa
 nanut
 nanya
 nanyan
+nanyang
 nanyangosaurus
 nanyu
 nao
@@ -117181,6 +117455,7 @@ naup
 nauplius
 naur
 nauru
+naurus
 naus
 nausea
 nauseam
@@ -117310,6 +117585,7 @@ ndabel
 ndabouw
 ndadap
 ndadi
+ndah
 ndahi
 ndaimbere
 ndak
@@ -118004,7 +118280,10 @@ netes
 netflix
 neti
 netik
+netikakler
+netikangkngso
 netiket
+netikiskiai
 netir
 netizen
 netnografi
@@ -118885,6 +119164,7 @@ nggaduh
 nggagemba
 nggaha
 nggak
+nggaka
 nggaki
 nggala
 nggalak
@@ -118964,6 +119244,7 @@ ngihik
 ngihit
 ngihu
 ngihut
+ngihuwacu
 ngijo
 ngik
 ngikek
@@ -119044,6 +119325,7 @@ ngkal
 ngkalembu
 ngkang
 ngkar
+ngkarang
 ngkaring
 ngkat
 ngkatan
@@ -121106,6 +121388,7 @@ nonsubdisi
 nonsubjek
 nonsubsidi
 nonsyariah
+nonsychronization
 nonsynchronization
 nont
 nonta
@@ -121284,6 +121567,8 @@ nosa
 nosak
 nosan
 nosar
+nosara
+nosate
 nosaudare
 nose
 nosebo
@@ -123552,6 +123837,10 @@ oksimetripulsa
 oksimoron
 oksimoronism
 oksin
+oksineurine
+oksinitrat
+oksinitrida
+oksinitril
 oksintik
 oksip
 oksipital
@@ -123662,6 +123951,7 @@ olam
 olan
 olanda
 olang
+olanga
 olanggara
 olani
 olano
@@ -123800,6 +124090,9 @@ olimpik
 olin
 olindrawa
 oling
+olingan
+olingo
+olinia
 olir
 olis
 olisasi
@@ -123824,6 +124117,7 @@ ologis
 ologisasi
 ologisme
 ologiwan
+olograf
 olografis
 ologram
 oloh
@@ -124164,6 +124458,8 @@ onge
 ongeh
 ongen
 onger
+ongga
+onggah
 onggak
 onggar
 onggari
@@ -124516,6 +124812,7 @@ opsgasgab
 opsi
 opsin
 opsiner
+opsinogen
 opsional
 opsionalitas
 opsir
@@ -124611,7 +124908,9 @@ orap
 orari
 oras
 orasi
+orasiilmiah
 orasio
+orasius
 orat
 oratio
 orator
@@ -124768,6 +125067,7 @@ orinoco
 oriolus
 orion
 orionid
+orionteatern
 orip
 oris
 orisasi
@@ -125263,6 +125563,7 @@ otoringolaringologikal
 otoringolaringologis
 otorinolaringolog
 otorinolaringologi
+otorinolaringologis
 otorisasi
 otorisator
 otorit
@@ -126686,6 +126987,7 @@ palempang
 palemumut
 palen
 palenae
+palenanthropology
 palenceng
 palende
 paleng
@@ -126732,6 +127034,7 @@ paleolitikum
 paleomagnetisme
 paleometalik
 paleomikologi
+paleonathropology
 paleoneurologi
 paleontografi
 paleontolog
@@ -128694,6 +128997,7 @@ paralo
 paralogia
 paralogisme
 paralon
+paralucifer
 param
 paramaarta
 paramagnetism
@@ -128781,6 +129085,7 @@ parapat
 parapatan
 parapati
 parape
+parapemujaiblitz
 parapen
 parapet
 parapl
@@ -129122,6 +129427,7 @@ parlondut
 parlour
 parmainan
 parmaksian
+parmalin
 parmangmang
 parmanuhan
 parmas
@@ -131068,8 +131374,10 @@ pekru
 peks
 peksa
 peksi
+peksimida
 peksimika
 peksiminas
+peksimoi
 peksos
 peksu
 pektai
@@ -137997,6 +138305,7 @@ pepel
 pepelah
 pepelegi
 pepeling
+pepeloncoan
 pependa
 peper
 pepera
@@ -138470,6 +138779,7 @@ percepat
 percepatan
 perceptron
 perceraian
+perceritaan
 percetakan
 percideraan
 percik
@@ -140986,6 +141296,7 @@ pgsi
 pha
 phacaonis
 phaedrolosaurus
+phagedena
 phala
 phalacroraxidae
 phalaenopsis
@@ -141046,6 +141357,7 @@ phyllanthus
 phyllodon
 phyllostachys
 phyta
+phytopatheingy
 phytopathology
 pia
 piab
@@ -142689,8 +143001,15 @@ pocotan
 pocung
 pocut
 pod
+podaca
+podadenia
+podagra
 podak
+podalyria
+podandrogyne
 podang
+podarcis
+podargus
 podcast
 podemporem
 podena
@@ -143927,6 +144246,7 @@ posteriori
 posterisasi
 postgresql
 posting
+postl
 postmortem
 postoh
 postosuchus
@@ -144943,6 +145263,7 @@ pritil
 priv
 privaatrecht
 privaatrechtelijk
+privaatrechteljk
 privasi
 privat
 privateness
@@ -144953,6 +145274,8 @@ privil
 privilege
 privilese
 privity
+priviu
+privius
 priwil
 prix
 priyagung
@@ -145313,6 +145636,7 @@ prosen
 prosenium
 prosentase
 proseri
+proserpinus
 proses
 prosesi
 prosesnya
@@ -145817,6 +146141,7 @@ puah
 puahun
 puai
 puain
+puaj
 puak
 puaka
 puaku
@@ -146022,6 +146347,7 @@ puka
 pukah
 pukal
 pukan
+pukanec
 pukang
 pukarandu
 pukas
@@ -147021,6 +147347,7 @@ pygmaeus
 pyi
 pyjamas
 pyok
+pyonephritis
 pyongyang
 pyrenaria
 pyrifolia
@@ -147320,6 +147647,7 @@ radiograf
 radiografer
 radiografi
 radiogram
+radioimunoasai
 radioimunoelektroforesis
 radioisotop
 radiokarbon
@@ -148141,6 +148469,7 @@ rangup
 ranhar
 rani
 rania
+raniamau
 raniapur
 ranidafobia
 raninau
@@ -148413,6 +148742,7 @@ rasalhague
 rasam
 rasamala
 rasan
+rasana
 rasanae
 rasanya
 rasat
@@ -148491,6 +148821,8 @@ ratak
 ratakan
 ratamba
 ratangga
+ratannagar
+ratanpur
 ratanya
 ratap
 ratapan
@@ -148555,6 +148887,7 @@ ratun
 ratus
 ratusan
 ratusannya
+ratusar
 rau
 raudah
 raudatul
@@ -150743,6 +151076,9 @@ rintisan
 rinto
 rinyah
 rinyai
+rinyakovacsi
+rinyaujlak
+rinyaujnep
 rinyuk
 rio
 rioarribasaurus
@@ -150904,6 +151240,7 @@ ritorno
 ritroblas
 ritrosit
 ritsleting
+ritssluiting
 ritta
 ritual
 ritualisasi
@@ -151124,6 +151461,7 @@ rodinamika
 rodinia
 rodium
 rodok
+rodokrinit
 rodokrosit
 rodolit
 rodong
@@ -151216,6 +151554,7 @@ rokat
 roker
 roket
 roketsonde
+roketsuzome
 roki
 rokifor
 rokirole
@@ -152230,6 +152569,7 @@ rutaceae
 rutaciae
 rutah
 rutan
+rutana
 rutang
 rutas
 rute
@@ -155466,6 +155806,7 @@ screwup
 scripta
 scriptum
 scrofa
+scrofula
 scrubbable
 sculata
 scutellarium
@@ -156166,6 +156507,7 @@ seeksklusif
 seeksotis
 seekstensif
 seekstrem
+seektensif
 seelastis
 seelegan
 seelite
@@ -161601,6 +161943,7 @@ sikil
 sikilan
 sikilang
 sikin
+sikipi
 sikit
 sikka
 sikkap
@@ -161633,6 +161976,7 @@ siklonik
 siklooksigenase
 siklop
 sikloparafin
+siklopentadiena
 siklopentana
 siklopentanoperhidrofenantren
 siklopia
@@ -162193,6 +162537,7 @@ simpatetik
 simpati
 simpatif
 simpatik
+simpatis
 simpatisan
 simpatolitik
 simpatomimetik
@@ -163373,6 +163718,8 @@ sitarolo
 sitas
 sitase
 sitasi
+sitasita
+sitaster
 sitat
 sitatau
 sitawar
@@ -165083,6 +165430,7 @@ spektra
 spektral
 spektrofilia
 spektrofobia
+spektrofotofluoroketri
 spektrofotofluorometri
 spektrofotometer
 spektrofotometri
@@ -165201,6 +165549,7 @@ spinosuchus
 spinosum
 spinosus
 spinotalamik
+spinus
 spinwave
 spion
 spionase
@@ -165631,6 +165980,7 @@ stela
 stelat
 stele
 stelechocarpus
+steleops
 stellata
 stellatus
 stelsel
@@ -165808,8 +166158,10 @@ stirena
 stirofoam
 stis
 stise
+stishovite
 stisida
 stisius
+stistaite
 stitusi
 stival
 stizo
@@ -166016,6 +166368,10 @@ strukturisasi
 strukturnya
 strum
 struma
+strumaria
+strumica
+strumienna
+strumigenys
 strus
 struthio
 struthiomimus
@@ -169480,6 +169836,7 @@ taktercampur
 taktercapai
 taktercatat
 takterduga
+takteredia
 takteresterifikasi
 taktergolong
 takterhingga
@@ -170983,6 +171340,7 @@ tapanya
 taparu
 tapas
 tapasik
+tapat
 tapau
 tapawana
 tape
@@ -172171,6 +172529,7 @@ tekiso
 tekkim
 teklek
 teklok
+teknif
 teknifon
 teknik
 teknikal
@@ -177425,11 +177784,13 @@ tikai
 tikaian
 tikal
 tikala
+tikalaares
 tikalak
 tikalas
 tikam
 tikaman
 tikan
+tikanga
 tikano
 tikapura
 tikar
@@ -178367,6 +178728,7 @@ tlasih
 tlatah
 tlawah
 tlawong
+tlc
 tlebo
 tlekung
 tlemang
@@ -178437,6 +178799,7 @@ tlutup
 tluwah
 tluwe
 tluwuk
+tly
 tmc
 tme
 tmesis
@@ -179689,6 +180052,7 @@ towuntu
 towuti
 toxicaria
 toxicatia
+toxication
 toxicoria
 toxotes
 toxotrophis
@@ -179835,6 +180199,7 @@ transaminase
 transaminasi
 transanifolus
 transasetilase
+transaski
 transatlantik
 transcriptase
 transcriptomics
@@ -180083,6 +180448,8 @@ tret
 tretayuga
 tretep
 tretinoin
+tretioscincus
+tretten
 trewung
 treycinetia
 trhs
@@ -180382,6 +180749,7 @@ trisiklik
 trisinar
 triskaidekafobia
 triskaidekafobik
+triskaidekfobia
 triskelion
 trismus
 trisnomulyo
@@ -181717,7 +182085,11 @@ tusai
 tusam
 tusaman
 tusan
+tusanes
 tusang
+tusanga
+tusanj
+tusans
 tusi
 tusir
 tusita
@@ -181856,6 +182228,7 @@ tyetni
 tylocephale
 tylosteus
 type
+typhl
 typhlops
 typhus
 typis
@@ -182490,6 +182863,7 @@ ulujadi
 ulujami
 ulujangang
 uluk
+ulukhaktok
 ulukhumi
 ulukutek
 ulul
@@ -182560,6 +182934,7 @@ umanderu
 umane
 umanen
 umang
+umangite
 umangkapala
 umani
 umanis
@@ -182814,6 +183189,8 @@ unga
 ungah
 ungai
 ungam
+unganbawa
+unganda
 ungap
 ungar
 ungaran
@@ -183465,7 +183842,12 @@ urus
 urusan
 urusanmu
 urusannya
+urusha
+urushiol
+urushiols
+urushiye
 urusi
+urussu
 urusy
 urut
 urutan
@@ -183497,8 +183879,13 @@ usaka
 usali
 usam
 usan
+usanas
 usang
+usangi
 usangnya
+usangu
+usanism
+usansolo
 usap
 usapan
 usapi
@@ -183882,6 +184269,7 @@ valsava
 valuasi
 valuatif
 valuta
+valva
 valvula
 vam
 vamin
@@ -184605,6 +184993,7 @@ voorheen
 voorijder
 vopo
 vor
+vornitrokusnofobia
 vorno
 voronoi
 vorstenlanden
@@ -188012,6 +188401,7 @@ xenogram
 xenokrasi
 xenolit
 xenologi
+xenology
 xenomania
 xenomorphic
 xenomorphism
@@ -188048,6 +188438,7 @@ xerogen
 xerografi
 xerographic
 xerokasi
+xerology
 xeromania
 xeromorf
 xeron
@@ -188114,9 +188505,15 @@ xuwulong
 xvi
 xxiv
 xylax
+xylinea
 xylocarpus
+xylomelum
 xylopia
+xylopoda
 xylotropes
+xynexecha
+xyodesmus
+xyridis
 xystrocera
 yaahowu
 yaba
@@ -188187,6 +188584,7 @@ yahi
 yahim
 yahoi
 yahrai
+yahrzeit
 yahu
 yahud
 yahudi
@@ -188200,6 +188598,8 @@ yahum
 yahw
 yahwe
 yahweh
+yahwism
+yahwistic
 yahya
 yai
 yaibu
@@ -188298,7 +188698,13 @@ yamahan
 yamalatu
 yamalo
 yaman
+yamanakako
+yamanashi
+yamandu
+yamanlar
+yamanotera
 yamansari
+yamantaka
 yamara
 yamas
 yamato
@@ -188499,6 +188905,7 @@ yaumulfasl
 yaumulhisab
 yaumuljamak
 yaumuljaza
+yaumulkiama
 yaumulkiamah
 yaumulmahsyar
 yaumulmizan
@@ -188635,7 +189042,10 @@ yerekama
 yeremia
 yerenusi
 yeresiam
+yeretiele
 yeretma
+yeretobougou
+yeretovka
 yeretuar
 yerevan
 yerfum
@@ -189418,6 +189828,7 @@ zoolatri
 zoolit
 zoologi
 zoologis
+zoology
 zoom
 zoomaniak
 zoometer
@@ -189494,5 +189905,9 @@ zuzundrao
 zuzuni
 zwageri
 zwijplicht
+zwiplicht
 zwitterion
 zygaena
+zygops
+zygotyla
+zyotanii
