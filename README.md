@@ -1,3 +1,6 @@
+## Feel free to DM me on discord if you want to add new words to the script!
+# Discord: sorasugus (rush.xyz banned)
+
 # Sambung-Kata
 ## https://www.roblox.com/games/130342654546662/Sambung-Kata
 
